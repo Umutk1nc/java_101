@@ -1,0 +1,19 @@
+# Java 101
+
+My Java learning journey.
+
+This repository contains my notes, exercises, and projects while learning the Java programming language.
+
+## Course
+
+- Pupilica - Java 101 (Instructor: Türkay Ürkmez)
+
+## Goals
+
+- Learn Java fundamentals
+- Build a strong foundation in object-oriented programming
+- Practice core syntax, operators, and control structures
+
+## Progress
+
+- [x] Lecture01 - Variables and Data Types
