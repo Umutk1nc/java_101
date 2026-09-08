@@ -16,5 +16,4 @@ This repository contains my notes, exercises, and projects while learning the Ja
 
 ## Progress
 
-- [x] Lesson 1 - Variables and Data Types
-- [x] Lesson 2 - Operators
+- [x] Lecture01 - Variables and Data Types
