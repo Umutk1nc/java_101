@@ -18,3 +18,4 @@ This repository contains my notes, exercises, and projects while learning the Ja
 
 - [x] Lesson 1 - Variables and Data Types
 - [x] Lesson 2 - Operators
+- [x] Lesson 3 - Conditional Statements, Switch-Case and Casting
