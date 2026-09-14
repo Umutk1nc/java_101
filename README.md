@@ -20,3 +20,4 @@ This repository contains my notes, exercises, and projects while learning the Ja
 - [x] Lesson 2 - Operators
 - [x] Lesson 3 - Conditional Statements, Switch-Case and Casting
 - [x] Lesson 4 - Loops
+- [x] Lesson 4 Application - ATM Simulator (Loops Practice)
