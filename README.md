@@ -22,3 +22,4 @@ This repository contains my notes, exercises, and projects while learning the Ja
 - [x] Lesson 4 - Loops
 - [x] Lesson 4 Application - ATM Simulator (Loops Practice)
 - [x] Lesson 5 - Arrays and String Manipulation
+- [x] Lesson 6 - Functions
