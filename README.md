@@ -16,12 +16,17 @@ This repository contains my notes, exercises, and projects while learning the Ja
 
 ## Progress
 
-- [x] Lesson 1 - Variables and Data Types
-- [x] Lesson 2 - Operators
-- [x] Lesson 3 - Conditional Statements, Switch-Case and Casting
-- [x] Lesson 4 - Loops
-- [x] Lesson 4 Application - ATM Simulator (Loops Practice)
-- [x] Lesson 5 - Arrays and String Manipulation
-- [x] Lesson 6 - Functions
-- [x] Lesson 6 Application - Word Guessing Game
-- [x] Lesson 7 - Object Oriented Programming
+- [x] Lesson01 - Variables and Data Types
+- [x] Lesson02 - Operators
+- [x] Lesson03 - Conditional Statements, Switch-Case and Casting
+- [x] Lesson04 - Loops
+- [x] Lesson04_Application - ATM Simulator (Loops Practice)
+- [x] Lesson05 - Arrays and String Manipulation
+- [x] Lesson06 - Functions
+- [x] Lesson06_Application - Word Guessing Game (Functions Practice)
+- [x] Lesson07 - Object Oriented Programming
+- [x] Lesson08 - Collections (ArrayList)
+
+## Topics Covered
+
+Variables & Data Types, Operators, Conditionals, Loops, Arrays, Strings, Functions, OOP (Inheritance, Encapsulation, Polymorphism, Interfaces), Collections
